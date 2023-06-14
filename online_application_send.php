@@ -22,36 +22,39 @@ $mail = new PHPMailer(true);
 
     //Recipients
     $mail->setFrom('admin@gmail.com');
-    $mail->addAddress('drnk.cse@gmail.com', 'Contact Form Inquiry');     //Add a recipient
+    $mail->addAddress('drnk.cse@gmail.com', 'Online Application');     //Add a recipient
     $mail->addReplyTo('admin@gmail.com', 'Information');
+    for ($i=0; $i < count($_FILES['file']['tmp_name']) ; $i++) { 
+      $mail->addAttachment($_FILES['file']['tmp_name'][$i], $_FILES['file']['name'][$i]);    // Optional name
+    }
     // $mail->addCC('gaurav.s.driveitdigital@gmail.com');
     // $mail->addBCC('bcc@example.com');
 
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = 'Contact Form Inquiry';
+    $mail->Subject = 'SERF Global Online Application';
     $mail->Body    = '<table style="font-family: arial, sans-serif; border-collapse: collapse; width: 100%;">
     <tr>
       <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Full Name </th>
-      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["f_name"].'</td>
+      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["title_name"].' '.$_POST["name"].'</td>
     </tr>
     <tr>
-      <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> Email Address </th>
-      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["email"].'</td>
+      <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> Name of collge/ university </th>
+      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["cu_name"].'</td>
     </tr> 
     <tr>
-      <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> Mobile Number</th>
-      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["mobile_number"].'</td>
+      <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> Permentent Address</th>
+      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["paddress"].'</td>
     </tr>
  
     <tr>
-      <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> Country  Name </th>
-      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["country_name"].'</td>
+      <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> Communication Address </th>
+      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["caddress"].'</td>
     </tr>
     <tr>
-      <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> Messages </th>
-      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["message"].'</td>
+      <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> Membership Type </th>
+      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["member"].'</td>
     </tr>
   </table>';    
 

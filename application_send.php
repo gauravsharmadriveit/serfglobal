@@ -9,28 +9,31 @@ require 'PHPMailer/src/SMTP.php';
 //Create an instance; passing `true` enables exceptions
 $mail = new PHPMailer(true);
 
+   //Server settings
+   $mail->SMTPDebug = 0;                      //Enable verbose debug output
+   $mail->isSMTP();                                            //Send using SMTP
+   $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
+   $mail->SMTPAuth   =  true;                                   //Enable SMTP authentication
+   $mail->Username   = 'drnk.cse@gmail.com';                     //SMTP username
+   $mail->Password   = 'nhbutjnxgkweumsk';                               //SMTP password
+   $mail->SMTPSecure = "tls";            //Enable implicit TLS encryption
+   $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
-    //Server settings
-    $mail->SMTPDebug = 0;                      //Enable verbose debug output
-    $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
-    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'gaurav.s.driveitdigital@gmail.com';                     //SMTP username
-    $mail->Password   = 'wumrqvhasiyhglyt';                               //SMTP password
-    $mail->SMTPSecure = "tls";            //Enable implicit TLS encryption
-    $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+   //Recipients
+   $mail->setFrom('admin@gmail.com');
+   $mail->addAddress('drnk.cse@gmail.com', 'Contact Form Inquiry');     //Add a recipient
+   $mail->addReplyTo('admin@gmail.com', 'Information');
+   for ($i=0; $i < count($_FILES['file']['tmp_name']) ; $i++) { 
+    $mail->addAttachment($_FILES['file']['tmp_name'][$i], $_FILES['file']['name'][$i]);    // Optional name
+  }
+   // $mail->addCC('gaurav.s.driveitdigital@gmail.com');
+   // $mail->addBCC('bcc@example.com');
 
-    //Recipients
-    $mail->setFrom('admin@gmail.com');
-    $mail->addAddress('grvsrma0@gmail.com', 'Gaurav Sharma');     //Add a recipient
-    $mail->addReplyTo('admin@gmail.com', 'Information');
-    $mail->addCC('gaurav.s.driveitdigital@gmail.com');
-    // $mail->addBCC('bcc@example.com');
 
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = 'SERF International Application Forms';
+    $mail->Subject = 'SERF Global Application Forms';
     $mail->Body    = '<table style="font-family: arial, sans-serif; border-collapse: collapse; width: 100%;">
     <tr>
     <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> First Name </th>
@@ -58,7 +61,7 @@ $mail = new PHPMailer(true);
       <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["f_n_award"].'</td>
     </tr>
     <tr>
-    <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> Fellowship / National Awards </th>
+    <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> Fellowship / Global Awards </th>
     <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">'.$_POST["f_g_award"].'</td>
   </tr>
    
