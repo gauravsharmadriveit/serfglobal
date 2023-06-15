@@ -8,16 +8,17 @@
                <div class="slide-progress"></div>
             </div>
             <div class="owl-carousel owl-theme" id="banner_slider">
+            <div class="item">
+                  <div class="banner-img">
+                     <a href="#"> <img src="assets/img/banner/slider-3.png" alt="" srcset="assets/img/banner/slider-3.png"></a>
+                  </div>
+               </div>
                <div class="item">
                   <div class="banner-img">
                      <a href="#"><img src="assets/img/banner/main-slide.jpg" alt="" srcset="assets/img/banner/main-slide.jpg"></a>
                   </div>
                </div>
-               <!-- <div class="item">
-                  <div class="banner-img">
-                          <img src="assets/img/banner/slider-backup.jpg" alt="" srcset="assets/img/banner/slider-backup.jpg">
-                  </div>
-                  </div> -->
+             
                <div class="item">
                   <div class="banner-img">
                      <a href="#"> <img src="assets/img/banner/slider-1.jpg" alt="" srcset="assets/img/banner/slider-1.jpg"></a>
@@ -26,6 +27,12 @@
                <div class="item">
                   <div class="banner-img">
                      <a href="#"> <img src="assets/img/banner/slider-2.jpg" alt="" srcset="assets/img/banner/slider-2.jpg"></a>
+                  </div>
+               </div>
+             
+               <div class="item">
+                  <div class="banner-img">
+                     <a href="#"> <img src="assets/img/banner/slider-4.png" alt="" srcset="assets/img/banner/slider-4.png"></a>
                   </div>
                </div>
             </div>
