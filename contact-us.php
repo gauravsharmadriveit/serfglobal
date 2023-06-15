@@ -106,7 +106,7 @@
 
 <?php $status = @$_GET['status']; 
 if($status == 'true') {
-      echo '<script>Swal.fire("Mail has been sent successfully");</script>';
+   echo '<script>Swal.fire("Thank you! Your form has been submitted successfully.");</script>';
 }
 
 ?>
