@@ -21,10 +21,22 @@
 <!-- <script src="assets/js/jquery.counterup.min.js"></script>  -->
 <!-- magnific popup js -->
 <script src="assets/js/jquery.magnific-popup.min.js"></script>
+<!-- <script src="assets/js/sweetalerts.init.js"></script> -->
+<script src="assets/js/sweetalert2.min.js"></script>
 <!-- contact form js -->
 <!-- <script src="assets/js/contact.form.js"></script> -->
 <!-- main js -->
 <script src="assets/js/main.js"></script>
 
+<script>
+    $(document).ready(function() {
+
+        $('#alertMessage').show();
+  setTimeout(function() {
+    $('#alertMessage').fadeOut();
+  }, 60000); // 60000 milliseconds = 1 minute
+});
+
+</script>
 </body>
 </html>

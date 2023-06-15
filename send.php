@@ -55,9 +55,11 @@ $mail = new PHPMailer(true);
     </tr>
   </table>';    
 
+  
     if ($mail->send()) {
-        echo 'Mail has been sent';
-       
+        // echo 'Mail has been sent';
+        $newURL = 'contact-us.php?status=true';
+        header('Location: '.$newURL);
     }
     else{
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";

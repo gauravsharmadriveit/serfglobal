@@ -50,7 +50,7 @@
                <div class="row-table">
                   <div class="col-cell header-logo">
                      <div class="logo-area">
-                        <a href="index.php">
+                        <a href="index">
                         <img src="assets/img/weblogo.png" alt="logo">  
                         </a>
                      </div>
@@ -61,13 +61,13 @@
                            <nav class="rs-menu hidden-md">
                               <ul class="nav-menu">
                                  <li class="rs-mega-menu">
-                                    <a href="index.php">Home</a>                                                          
+                                    <a href="index">Home</a>                                                          
                                  </li>
                                  <li class="menu-item-has-children">
                                     <a href="#">Foundation </a>                                                        
                                     <ul class="sub-menu">
-                                       <li><a href="foundation.php">Foundation</a></li>
-                                       <li><a href="management-team.php">Management Team </a></li>
+                                       <li><a href="foundation">Foundation</a></li>
+                                       <li><a href="management-team">Management Team </a></li>
                                        <!-- <li><a href="chief-advisor">Chief Advisor</a></li>
                                           <li><a href="advisor">Advisor</a></li>
                                           <li><a href="executive-committee">Executive Committee</a></li>
@@ -78,8 +78,8 @@
                                  <li class="menu-item-has-children">
                                     <a href="#">Journals </a>
                                     <ul class="sub-menu">
-                                       <li><a href="current-journal.php">Current Journal</a></li>
-                                       <li><a href="upcomming-journals.php">Upcomming Journals</a></li>
+                                       <li><a href="current-journal">Current Journal</a></li>
+                                       <li><a href="upcomming-journals">Upcomming Journals</a></li>
                                     </ul>
                                  </li>
                                  <li class="menu-item-has-children">
@@ -92,17 +92,17 @@
                                  <li class="menu-item-has-children">
                                     <a href="#">Fellowship / Awards  </a>
                                     <ul class="sub-menu">
-                                       <li><a href="national-awards.php">National Awards</a></li>
-                                       <li><a href="global-awards.php">Global Awards</a></li>
-                                       <li><a href="application.php">Application</a></li>
+                                       <li><a href="national-awards">National Awards</a></li>
+                                       <li><a href="global-awards">Global Awards</a></li>
+                                       <li><a href="application">Application</a></li>
                                     </ul>
                                  </li>
                                  <li class="menu-item-has-children">
                                     <a href="#">Membership </a>
                                     <ul class="sub-menu">
-                                       <li><a href="membership-benefits.php">Membership Benifits</a></li>
-                                       <li><a href="membership-details.php">Membership Details</a></li>
-                                       <li><a href="online-application.php">Online Application</a></li>
+                                       <li><a href="membership-benefits">Membership Benifits</a></li>
+                                       <li><a href="membership-details">Membership Details</a></li>
+                                       <li><a href="online-application">Online Application</a></li>
                                        <li><a href="#">List of life members</a></li>
                                     </ul>
                                  </li>

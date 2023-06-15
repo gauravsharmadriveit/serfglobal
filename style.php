@@ -42,6 +42,7 @@
       <link rel="stylesheet" type="text/css" href="assets/css/off-canvas.css">
       <!-- magnific popup css -->
       <link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.css">
+      <link rel="stylesheet" href="assets/css/sweetalert2.min.css">
       <!-- Main Menu css -->
       <link rel="stylesheet" href="assets/css/rsmenu-main.css">
       <!-- nivo slider CSS -->

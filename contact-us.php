@@ -1,5 +1,6 @@
 <?php include('style.php'); ?>
-<?php include('header.php'); ?>
+<?php include('header.php');
+?>
 <section>
    <div class="rs-breadcrumbs img7">
       <div class="container">
@@ -58,6 +59,7 @@
                   <div class="contact_title">
                      <h3>Contact Us</h3>
                   </div>
+                  
                   <form method="post" action='send.php' class="row clearfix">
                         <div class="col-md-6 col-sm-12 col-lg-6">
                         <div class="form-group">                                    
@@ -91,6 +93,7 @@
                            <input type="Submit" class="btn_submit" value="Send">
                         </div>
                      </div>
+                    
                   </form>
                </div>
             </div>
@@ -100,3 +103,11 @@
 </section>
 <?php include('footer.php'); ?>
 <?php include('script.php'); ?>
+
+<?php $status = @$_GET['status']; 
+if($status == 'true') {
+      echo '<script>Swal.fire("Mail has been sent successfully");</script>';
+}
+
+?>
+            
