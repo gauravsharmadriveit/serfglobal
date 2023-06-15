@@ -1,10 +1,9 @@
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-DirectoryIndex index.php
-RewriteRule ^index.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-</IfModule>
 
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{REQUEST_URI} serfglobal
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI}/serfglobal/$1 [R,L]
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L] 

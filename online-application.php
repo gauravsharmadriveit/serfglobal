@@ -93,3 +93,10 @@
 </section>
 <?php include('footer.php'); ?>
 <?php include('script.php'); ?>
+
+<?php $status = @$_GET['status']; 
+if($status == 'true') {
+      echo '<script>Swal.fire("Mail has been sent successfully");</script>';
+   }
+?>
+      

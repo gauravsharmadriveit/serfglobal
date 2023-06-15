@@ -12,7 +12,7 @@
                <div class="row clearfix">
                   <div class="col-sm-12 col-md-6 col-lg-6">
                      <div class="footer_heading">
-                        <h3>Serf International.com</h3>
+                        <h3>Serf Global.com</h3>
                      </div>
                      <p>SERF: A platform to promote multi-disciplinary research in Science, Technology, and Management, is an innovative non-profit-making foundation for researchers</p>
                   </div>

@@ -208,7 +208,7 @@
                            </div>
                         </div>
                         <div class="btn-part">
-                           <a class="readon price" href="https://serfinternational.com/serf-journal/" target="_blank" rel="noopener noreferrer">Submit Today</a>
+                           <a class="readon price" href="https://janolijournals.org/" target="_blank" rel="noopener noreferrer">Submit Today</a>
                         </div>
                      </div>
                   </div>
@@ -228,7 +228,7 @@
                            </div>
                         </div>
                         <div class="btn-part">
-                           <a class="readon price price2" href="https://serfinternational.com/serf-journal/" target="_blank" rel="noopener noreferrer">Submit Today</a>
+                           <a class="readon price price2" href="https://janolijournals.org/" target="_blank" rel="noopener noreferrer">Submit Today</a>
                         </div>
                      </div>
                   </div>
@@ -248,7 +248,7 @@
                            </div>
                         </div>
                         <div class="btn-part">
-                           <a class="readon price" href="https://serfinternational.com/serf-journal/" target="_blank" rel="noopener noreferrer">Submit Today</a>
+                           <a class="readon price" href="https://janolijournals.org/" target="_blank" rel="noopener noreferrer">Submit Today</a>
                         </div>
                      </div>
                   </div>
@@ -411,7 +411,7 @@
                   </div>
                   <div class="col-sm-12 col-md-3 col-lg-3">
                      <div class="btn-area btn-area3">
-                        <a class="readon2" href="https://serfinternational.com/serf-journal/" target="_blank" rel="noopener noreferrer">
+                        <a class="readon2" href="https://janolijournals.org/" target="_blank" rel="noopener noreferrer">
                            Submit Now
                            <div class="btn-arrow"></div>
                         </a>

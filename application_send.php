@@ -68,12 +68,19 @@ $mail = new PHPMailer(true);
   </table>';
     
 
+    // if ($mail->send()) {
+    //     echo 'Mail has been sent';     
+    // }
+    // else{
+    //     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    // }
     if ($mail->send()) {
-        echo 'Mail has been sent';     
-    }
-    else{
-        echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-    }
-
+      // echo 'Mail has been sent';
+      $newURL = 'application.php?status=true';
+      header('Location: '.$newURL);
+  }
+  else{
+      echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+  }
 
 ?>
