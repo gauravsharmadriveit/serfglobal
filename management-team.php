@@ -39,11 +39,21 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/dranirudha-pradhan.jpg">
+                                 <img src="assets/img/team/dranirudha-pradhan.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Anirudh Pradhan</h3>
                               <span class="post">Director, CCASS, GLA University </span>
                               <span class="d-block country_name">India</span>                               
+                           </div>
+                        </div>
+                        <div class="col-sm-12 col-md-3 col-lg-3">
+                           <div class="our-team mt-3">
+                              <div class="pic">
+                                 <img src="assets/img/team/dorota-pro.webp">
+                              </div>
+                              <h3 class="title">Prof. (Dr.) Dorota Jelonek</h3>
+                              <span class="post">Faculty Of Management At The Czestochowa University Of Technolog </span>
+                              <span class="d-block country_name">Poland</span>                               
                            </div>
                         </div>
                      </div>
@@ -53,7 +63,7 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/user.jpg">
+                                 <img src="assets/img/team/alex-khang.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Alex Khang</h3>
                               <span class="post">Data Scientist </span>
@@ -63,7 +73,7 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/user.jpg">
+                                 <img src="assets/img/team/olha-prekopenko.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Olha Prekopenko,</h3>
                               <span class="post">Estonian Entrepreneurship University of Applied Sciences </span>
@@ -77,7 +87,7 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/user.jpg">
+                                 <img src="assets/img/team/shyamala-krishannair.webp">
                               </div>
                               <h3 class="title">Dr. Shyamala Krishannair</h3>
                               <span class="post">Zululand University  </span>
@@ -116,7 +126,7 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/dr-sanjeev-sir.jpg">
+                                 <img src="assets/img/team/dr-sanjeev-sir.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Sanjeev Kumar</h3>
                               <span class="post">Executive President Department of Mathematics Dr. Bhimrao Ambedkar University,</span>        
@@ -126,7 +136,7 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/nevine.jpg">
+                                 <img src="assets/img/team/nevine.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Nevine Makram Labib</h3>
                               <span class="d-block country_name">Egypt</span>                               
@@ -140,7 +150,7 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/user.jpg">
+                                 <img src="assets/img/team/valentina-emilia-balas.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Valentina E Balas</h3>
                               <span class="d-block country_name">Romania</span>                               
@@ -160,7 +170,7 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/user.jpg">
+                                 <img src="assets/img/team/dr-rahman.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Farook Rahaman</h3>
                               <span class="d-block country_name">India</span>                               
@@ -184,7 +194,7 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/Ivanenko-Liudmyla-mam.jpg">
+                                 <img src="assets/img/team/Ivanenko-Liudmyla-mam.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Ivanenko Liudmyla</h3>
                               <!-- <span class="post">Amity University</span>-->
@@ -213,7 +223,7 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/dr-narendra-kumar.jpg">
+                                 <img src="assets/img/team/dr-narendra-kumar.webp">
                               </div>
                               <h3 class="title">Dr. Narendra Kumar (Member, Planning)</h3>
                               <span class="post">NIMS University, Jaipur</span>
@@ -223,7 +233,7 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/ilona.jpg">
+                                 <img src="assets/img/team/ilona.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Ilona Paweloszek (Member, Planning)</h3>
                               <span class="post"></span>
@@ -233,7 +243,7 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/user.jpg">
+                                 <img src="assets/img/team/gulsun-kurubcak.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Gulsun Kurubacak  (Member, Planning)</h3>
                               <span class="post">Anadolu University</span>
@@ -248,6 +258,16 @@
                               <h3 class="title">Prof.(Dr.) Liliana Guran Manciu (Member, Planning)</h3>
                               <span class="post"></span>
                               <span class="d-block country_name">Romania </span>                               
+                           </div>
+                        </div>
+                        <div class="col-sm-12 col-md-3 col-lg-3">
+                           <div class="our-team mt-3">
+                              <div class="pic">
+                                 <img src="assets/img/team/mahesh-joshi.webp">
+                              </div>
+                              <h3 class="title">Prof.(Dr.) Mahesh Joshi</h3>
+                              <span class="post">Manipal University Jaipur</span>
+                              <span class="d-block country_name"> India </span>                               
                            </div>
                         </div>
                      </div>
