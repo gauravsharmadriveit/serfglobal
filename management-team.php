@@ -43,7 +43,7 @@
                               </div>
                               <h3 class="title">Prof.(Dr.) Anirudh Pradhan</h3>
                               <span class="post">Director, CCASS, GLA University </span>
-                              <span class="d-block country_name">India</span>                               
+                              <span class="d-block country_name">(India)</span>                               
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -97,21 +97,21 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/user.jpg">
+                                 <img src="assets/img/team/manoj-dubey.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Manoj Dubey</h3>
                               <span class="post">IPS Academy</span>
-                              <span class="d-block country_name">Indore, India</span>                               
+                              <span class="d-block country_name">Indore, (India)</span>                               
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/user.jpg">
+                                 <img src="assets/img/team/vivek-raich.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Vivek Raich</h3>
                               <span class="post">PG Holkar College </span>
-                              <span class="d-block country_name">Indore, India</span>                               
+                              <span class="d-block country_name">Indore, (India)</span>                               
                            </div>
                         </div>
                      </div>
@@ -130,7 +130,7 @@
                               </div>
                               <h3 class="title">Prof.(Dr.) Sanjeev Kumar</h3>
                               <span class="post">Executive President Department of Mathematics Dr. Bhimrao Ambedkar University,</span>        
-                              <span class="d-block country_name">Agra, India</span>                               
+                              <span class="d-block country_name">Agra, (India)</span>                               
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -164,7 +164,7 @@
                               </div>
                               <h3 class="title">Prof.(Dr.) Shyamrao V Gumaste</h3>
                               <span class="post">MET’s Institute of Engineering</span>                                 
-                              <span class="d-block country_name">Nashik, India</span>                               
+                              <span class="d-block country_name">Nashik, (India)</span>                               
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -173,7 +173,7 @@
                                  <img src="assets/img/team/dr-rahman.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Farook Rahaman</h3>
-                              <span class="d-block country_name">India</span>                               
+                              <span class="d-block country_name">(India)</span>                               
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -183,7 +183,7 @@
                               </div>
                               <h3 class="title">Prof.(Dr.) Shashi Sekhar Singh</h3>
                               <span class="post">Amity University</span>                                      
-                              <span class="d-block country_name"> Noida India</span>                               
+                              <span class="d-block country_name"> Noida, (India)</span>                               
                            </div>
                         </div>
                         <div class="col-md-12">
@@ -194,11 +194,11 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/Ivanenko-Liudmyla-mam.webp">
+                                 <img src="assets/img/team/user.jpg">
                               </div>
-                              <h3 class="title">Prof.(Dr.) Ivanenko Liudmyla</h3>
-                              <!-- <span class="post">Amity University</span>-->
-                              <span class="d-block country_name"> Ukraine</span>                               
+                              <h3 class="title">Prof.(Dr.) Naveen K Sharma</h3>
+                              <span class="post">IIMT </span>
+                              <span class="d-block country_name">Ghaziabad (India)</span>                               
                            </div>
                         </div>
                         <div class="col-md-12">
@@ -209,11 +209,11 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
-                                 <img src="assets/img/team/user.jpg">
+                                 <img src="assets/img/team/b-p-chamola.webp">
                               </div>
-                              <h3 class="title">Prof.(Dr.) Vinod Kumar</h3>
-                              <!-- <span class="post">Amity University</span>-->
-                              <span class="d-block country_name"> India</span>                               
+                              <h3 class="title">Prof.(Dr.) B P Chamola</h3>
+                              <span class="post">JP IIT</span>
+                              <span class="d-block country_name">Noida (India)</span>                               
                            </div>
                         </div>
                      </div>
@@ -226,8 +226,8 @@
                                  <img src="assets/img/team/dr-narendra-kumar.webp">
                               </div>
                               <h3 class="title">Dr. Narendra Kumar (Member, Planning)</h3>
-                              <span class="post">NIMS University, Jaipur</span>
-                              <span class="d-block country_name">India</span>                               
+                              <span class="post">NIMS University</span>
+                              <span class="d-block country_name">Jaipur, (India)</span>                               
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -266,8 +266,8 @@
                                  <img src="assets/img/team/mahesh-joshi.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Mahesh Joshi</h3>
-                              <span class="post">Manipal University Jaipur</span>
-                              <span class="d-block country_name"> India </span>                               
+                              <span class="post">Manipal University </span>
+                              <span class="d-block country_name">(Jaipur), India </span>                               
                            </div>
                         </div>
                      </div>

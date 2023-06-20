@@ -36,7 +36,7 @@
                   <div class="col-lg-5 text-right">
                      <div class="toolbar-sl-share">
                         <ul>
-                           <li class="opening"> <a href="https://janolijournals.org/" target="_blank" rel="noopener noreferrer"> Paper Submission </a> </li>
+                           <li class="opening"> <a href="https://janolijournals.org/ " target="_blank" rel="noopener noreferrer"> Paper Submission </a> </li>
                         </ul>
                      </div>
                   </div>
