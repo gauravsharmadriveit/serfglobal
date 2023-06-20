@@ -52,7 +52,7 @@
                                  <img src="assets/img/team/dorota-pro.webp">
                               </div>
                               <h3 class="title">Prof. (Dr.) Dorota Jelonek</h3>
-                              <span class="post">Faculty Of Management At The Czestochowa University Of Technolog </span>
+                              <span class="post">Faculty Of Management At The Czestochowa University Of Technology</span>
                               <span class="d-block country_name">Poland</span>                               
                            </div>
                         </div>
@@ -138,7 +138,8 @@
                               <div class="pic">
                                  <img src="assets/img/team/nevine.webp">
                               </div>
-                              <h3 class="title">Prof.(Dr.) Nevine Makram Labib</h3>
+                              <h3 class="title">PROF. (DR.) NEVINE MAKRAM Labib</h3>
+                                <span class="post">Institute of National Planning</span>        
                               <span class="d-block country_name">Egypt</span>                               
                            </div>
                         </div>
@@ -211,8 +212,8 @@
                               <div class="pic">
                                  <img src="assets/img/team/b-p-chamola.webp">
                               </div>
-                              <h3 class="title">Prof.(Dr.) B P Chamola</h3>
-                              <span class="post">JP IIT</span>
+                              <h3 class="title">PROF.(DR.) B.P . CHAMOLA</h3>
+                              <span class="post">JPIIT</span>
                               <span class="d-block country_name">Noida (India)</span>                               
                            </div>
                         </div>
@@ -236,7 +237,7 @@
                                  <img src="assets/img/team/ilona.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Ilona Paweloszek (Member, Planning)</h3>
-                              <span class="post"></span>
+                              <span class="post">Faculty Of Management At The Czestochowa University Of Technology, </span>
                               <span class="d-block country_name">Poland</span>                               
                            </div>
                         </div>
@@ -267,7 +268,7 @@
                               </div>
                               <h3 class="title">Prof.(Dr.) Mahesh Joshi</h3>
                               <span class="post">Manipal University </span>
-                              <span class="d-block country_name">(Jaipur), India </span>                               
+                              <span class="d-block country_name">(India), Jaipur  </span>                               
                            </div>
                         </div>
                      </div>
