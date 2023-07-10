@@ -18,15 +18,15 @@
       <div class="col-md-6 col-sm-12 col-lg-6">
          <div class="conatct_us_tabs">
             <ul class="nav nav-tabs nav-pills nav-fill gap-2" id="myTab">
+               <!-- <li class="nav-item">
+                  <a href="#india" class="nav-link " data-bs-toggle="tab">India</a>
+               </li> -->
                <li class="nav-item">
-                  <a href="#india" class="nav-link active" data-bs-toggle="tab">India</a>
-               </li>
-               <li class="nav-item">
-                  <a href="#poland" class="nav-link" data-bs-toggle="tab">Poland</a>
+                  <a href="#poland" class="nav-link active" data-bs-toggle="tab">Enquiry Now</a>
                </li>
             </ul>
             <div class="tab-content">
-               <div class="tab-pane fade show active" id="india">
+               <!-- <div class="tab-pane fade show active" id="india">
                   <div class="tab_content">
                      <p>Editorial and other inquiries should be directed to</p>
                      <ul>
@@ -36,8 +36,8 @@
                         <li><b>Phone:</b> <a href="telto:+91-8854005488">+91-8854005488</a> </li>
                      </ul>
                   </div>
-               </div>
-               <div class="tab-pane fade" id="poland">
+               </div> -->
+               <div class="tab-pane fade show active" id="poland">
                   <div class="tab_content">
                      <p>Editorial and other inquiries should be directed to</p>
                      <ul>
@@ -46,6 +46,7 @@
                         <li>Chair Person Managing and planning Committee</li>
                         <li>Executive Editor, SERF International Journal</li>
                         <li><b>Email:</b> <a href="mailto:drnilona@serfinternational.com">drnilona@serfinternational.com</a> </li>
+                        <li><b>Phone:</b> <a href="telto:+91-8854005488">+91-8854005488</a> </li>
                      </ul>
                   </div>
                </div>

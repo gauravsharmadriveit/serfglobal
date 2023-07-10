@@ -42,8 +42,8 @@
                                  <img src="assets/img/team/dranirudha-pradhan.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Anirudh Pradhan</h3>
-                              <span class="post">Director, CCASS, GLA University </span>
-                              <span class="d-block country_name">(India)</span>                               
+                              <span class="post">(Director, CCASS, GLA University, India)</span>
+                              <span class="d-block country_name">Mentor</span>                               
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
