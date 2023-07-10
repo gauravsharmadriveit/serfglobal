@@ -24,7 +24,7 @@
                         <ul>
                            <li>
                               <i class="flaticon-email"></i>
-                              <a href="mailto:info@SERFinternationaljournal.org">info@SERFinternationaljournal.org</a>
+                              <a href="mailto:serfjaipur@gmail.com">serfjaipur@gmail.com</a>
                            </li>
                            <li>
                               <i class="flaticon-call"></i>

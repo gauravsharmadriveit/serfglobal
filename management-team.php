@@ -52,7 +52,7 @@
                                  <img src="assets/img/team/dorota-pro.webp">
                               </div>
                               <h3 class="title">Prof. (Dr.) Dorota Jelonek</h3>
-                              <span class="post">Faculty Of Management At The Czestochowa University Of Technology</span>
+                              <span class="post">Faculty Of Management <span class="d-block">Czestochowa University Of Technology</span></span>
                               <span class="d-block country_name">Poland</span>                               
                            </div>
                         </div>
@@ -237,7 +237,7 @@
                                  <img src="assets/img/team/ilona.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Ilona Paweloszek (Member, Planning)</h3>
-                              <span class="post">Faculty Of Management At The Czestochowa University Of Technology, </span>
+                              <span class="post">Faculty Of Management <span class="d-block">Czestochowa University Of Technology</span> </span>
                               <span class="d-block country_name">Poland</span>                               
                            </div>
                         </div>
@@ -269,6 +269,16 @@
                               <h3 class="title">Prof.(Dr.) Mahesh Joshi</h3>
                               <span class="post">Manipal University </span>
                               <span class="d-block country_name">(India), Jaipur  </span>                               
+                           </div>
+                        </div>
+                         <div class="col-sm-12 col-md-3 col-lg-3">
+                           <div class="our-team mt-3">
+                              <div class="pic">
+                                 <img src="assets/img/team/r-k-tailor.webp">
+                              </div>
+                              <h3 class="title">Prof. (Dr.) R. K. Tailor (Member Planning)</h3>
+                              <span class="post">Manipal University </span>
+                              <span class="d-block country_name"> Jaipur, (India)  </span>                               
                            </div>
                         </div>
                      </div>

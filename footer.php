@@ -50,9 +50,9 @@
                         <h3>Enquiry Us</h3>
                      </div>
                      <div class="footer_link_enquiry">
-                        <li><b>Prof.(Dr.) Narendra Kumar</b></li>
+                        <li><b>Prof. (Dr.) Ilona Pawełoszek</b></li>
                         <li>Executive Editor, Member Planning SERF International Journals</li>
-                        <li><b>Email:</b> <a href="mailto:info@SERFinternationaljournal.org">info@SERFinternationaljournal.org</a> </li>
+                        <li><b>Email:</b> <a href="mailto:serfjaipur@gmail.com">serfjaipur@gmail.com</a> </li>
                         <li><b>Phone:</b> <a href="telto:+91-8854005488">+91-8854005488</a> </li>
                      </div>
                   </div>

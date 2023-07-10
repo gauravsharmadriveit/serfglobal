@@ -448,23 +448,23 @@
                         <div class="tab-pane fade show active" id="upcoming_event">
                            <div class="row align-items-center justify-content-center clearfix">
                               <div class="col-sm-12 col-md-6 col-lg-4">
-                                 <a href="#" rel="noopener noreferrer">
+                                 <a href="https://www.fircons.com/" target="_blank" rel="noopener noreferrer">
                                     <div class="event_box">
                                        <div class="events_img">
                                           <img src="assets/img/events/maldives-img.jpg" alt="" srcset="">
                                        </div>
                                        <div class="event_content">
                                           <div class="event_date">
-                                             <span>May 25-28, 2023 | Maldives Offline</span>
+                                             <span>November 24 - 27, 2023 | Maldives | Offline</span>
                                           </div>
                                           <div class="event_name">
-                                             <span>International Conference on Advancements in Scientific Computing and Machine Learning ICASCML-2023 </span>
+                                             <span>International Conference on Advances in Science, Technology and Management  <div>(ICOSTEM 2023)</div> </span>
                                           </div>
                                        </div>
                                     </div>
                                  </a>
                               </div>
-                              <div class="col-sm-12 col-md-6 col-lg-4">
+                              <!--<div class="col-sm-12 col-md-6 col-lg-4">
                                  <a href="#" rel="noopener noreferrer">
                                     <div class="event_box">
                                        <div class="events_img">
@@ -480,7 +480,7 @@
                                        </div>
                                     </div>
                                  </a>
-                              </div>
+                              </div>-->
                            </div>
                         </div>
                         <div class="tab-pane fade" id="past_events">
