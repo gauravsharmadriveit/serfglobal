@@ -891,13 +891,15 @@ input[type=number] {
   font-family: var(--themefont1);
   margin-bottom:0;
 }
-.comman_section .our-team .country_name{
+.comman_section .our-team .country_name {
   display: block;
-  font-size: 13px;
+  font-size: 14px;
   color: var(--themecolor3);
   text-transform: capitalize;
   margin-bottom: 15px;
   font-family: var(--themefont1);
+  font-weight: 600;
+  margin-top: 10px;
 }
 .comman_section .title_spekaer h2{
   text-align: center;

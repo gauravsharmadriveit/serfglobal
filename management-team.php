@@ -52,8 +52,8 @@
                                  <img src="assets/img/team/dorota-pro.webp">
                               </div>
                               <h3 class="title">Prof. (Dr.) Dorota Jelonek</h3>
-                              <span class="post">Faculty Of Management <span class="d-block">Czestochowa University Of Technology</span></span>
-                              <span class="d-block country_name">Poland</span>                               
+                              <span class="post">(Faculty Of Management ,Czestochowa University Of Technology, Poland)</span>
+                              <span class="d-block country_name">Mentor</span>                               
                            </div>
                         </div>
                      </div>
@@ -66,8 +66,8 @@
                                  <img src="assets/img/team/alex-khang.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Alex Khang</h3>
-                              <span class="post">Data Scientist </span>
-                              <span class="d-block country_name">Vietnam</span>                               
+                              <span class="post">(Data Scientist ,Vietnam) </span>
+                              <span class="d-block country_name">Chief Advisor</span>                               
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -76,8 +76,8 @@
                                  <img src="assets/img/team/olha-prekopenko.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Olha Prekopenko,</h3>
-                              <span class="post">Estonian Entrepreneurship University of Applied Sciences </span>
-                              <span class="d-block country_name">Estonia</span>                               
+                              <span class="post">(Estonian Entrepreneurship University of Applied Sciences, Estonia) </span>
+                              <span class="d-block country_name">Chief Advisor</span>                          
                            </div>
                         </div>
                      </div>
@@ -90,8 +90,8 @@
                                  <img src="assets/img/team/shyamala-krishannair.webp">
                               </div>
                               <h3 class="title">Dr. Shyamala Krishannair</h3>
-                              <span class="post">Zululand University  </span>
-                              <span class="d-block country_name">South Africa</span>                               
+                              <span class="post">(Zululand University, South Africa)</span>
+                              <span class="d-block country_name">Advisor</span>                                   
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -100,8 +100,8 @@
                                  <img src="assets/img/team/manoj-dubey.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Manoj Dubey</h3>
-                              <span class="post">IPS Academy</span>
-                              <span class="d-block country_name">Indore, (India)</span>                               
+                              <span class="post">(IPS Academy Indore, India)</span>  
+                              <span class="d-block country_name">Advisor</span>                                     
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -110,8 +110,8 @@
                                  <img src="assets/img/team/vivek-raich.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Vivek Raich</h3>
-                              <span class="post">PG Holkar College </span>
-                              <span class="d-block country_name">Indore, (India)</span>                               
+                              <span class="post">(PG Holkar College Indore, India) </span>                           
+                              <span class="d-block country_name">Advisor</span>                               
                            </div>
                         </div>
                      </div>
@@ -129,8 +129,8 @@
                                  <img src="assets/img/team/dr-sanjeev-sir.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Sanjeev Kumar</h3>
-                              <span class="post">Executive President Department of Mathematics Dr. Bhimrao Ambedkar University,</span>        
-                              <span class="d-block country_name">Agra, (India)</span>                               
+                              <span class="post">(Executive President Department of Mathematics Dr. Bhimrao Ambedkar University, Agra, India)</span>        
+                              <span class="d-block country_name">Executive Committee</span>                               
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -139,8 +139,8 @@
                                  <img src="assets/img/team/nevine.webp">
                               </div>
                               <h3 class="title">PROF. (DR.) NEVINE MAKRAM Labib</h3>
-                                <span class="post">Institute of National Planning</span>        
-                              <span class="d-block country_name">Egypt</span>                               
+                                <span class="post">Institute of National Planning, Egypt</span>        
+                                <span class="d-block country_name">Executive Committee</span>                    
                            </div>
                         </div>
                         <div class="col-md-12">
@@ -154,11 +154,12 @@
                                  <img src="assets/img/team/valentina-emilia-balas.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Valentina E Balas</h3>
-                              <span class="d-block country_name">Romania</span>                               
+                              <span class="post">(Romania)</span> 
+                              <span class="d-block country_name">Vice President</span>                        
                            </div>
                         </div>
                         
-                        <div class="col-sm-12 col-md-3 col-lg-3">
+                        <!-- <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
                                  <img src="assets/img/team/user.jpg">
@@ -167,6 +168,16 @@
                               <span class="post">MET’s Institute of Engineering</span>                                 
                               <span class="d-block country_name">Nashik, (India)</span>                               
                            </div>
+                        </div> -->
+                        <div class="col-sm-12 col-md-3 col-lg-3">
+                           <div class="our-team mt-3">
+                              <div class="pic">
+                                 <img src="assets/img/team/ilona.webp">
+                              </div>
+                              <h3 class="title">Prof.(Dr.) Ilona Paweloszek (Member, Planning)</h3>
+                              <span class="post">(Faculty Of Management ,Czestochowa University Of Technology , Poland)</span> 
+                              <span class="d-block country_name">Vice President</span>                               
+                           </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
@@ -174,10 +185,11 @@
                                  <img src="assets/img/team/dr-rahman.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Farook Rahaman</h3>
-                              <span class="d-block country_name">(India)</span>                               
+                              <span class="post">(India)</span> 
+                              <span class="d-block country_name">Vice President</span>                                     
                            </div>
                         </div>
-                        <div class="col-sm-12 col-md-3 col-lg-3">
+                        <!-- <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
                                  <img src="assets/img/team/user.jpg">
@@ -186,7 +198,7 @@
                               <span class="post">Amity University</span>                                      
                               <span class="d-block country_name"> Noida, (India)</span>                               
                            </div>
-                        </div>
+                        </div> -->
                         <div class="col-md-12">
                            <div class="title_spekaer">
                               <h2>General Secretary</h2>
@@ -195,19 +207,29 @@
                         <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
+                                 <img src="assets/img/team/b-p-chamola.webp">
+                              </div>
+                              <h3 class="title">PROF.(DR.) B.P . CHAMOLA</h3>
+                              <span class="post">(JPIIT, Noida India)</span>
+                              <span class="d-block country_name">General Secretary</span>                               
+                           </div>
+                        </div>
+                        <!-- <div class="col-sm-12 col-md-3 col-lg-3">
+                           <div class="our-team mt-3">
+                              <div class="pic">
                                  <img src="assets/img/team/user.jpg">
                               </div>
                               <h3 class="title">Prof.(Dr.) Naveen K Sharma</h3>
                               <span class="post">IIMT </span>
                               <span class="d-block country_name">Ghaziabad (India)</span>                               
                            </div>
-                        </div>
-                        <div class="col-md-12">
+                        </div> -->
+                        <!-- <div class="col-md-12">
                            <div class="title_spekaer">
                               <h2>Finance  Secretary</h2>
                            </div>
-                        </div>
-                        <div class="col-sm-12 col-md-3 col-lg-3">
+                        </div> -->
+                        <!-- <div class="col-sm-12 col-md-3 col-lg-3">
                            <div class="our-team mt-3">
                               <div class="pic">
                                  <img src="assets/img/team/b-p-chamola.webp">
@@ -216,7 +238,7 @@
                               <span class="post">JPIIT</span>
                               <span class="d-block country_name">Noida (India)</span>                               
                            </div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                   <div class="tab-pane fade" id="working-committee">
@@ -227,8 +249,8 @@
                                  <img src="assets/img/team/dr-narendra-kumar.webp">
                               </div>
                               <h3 class="title">Dr. Narendra Kumar (Member, Planning)</h3>
-                              <span class="post">NIMS University</span>
-                              <span class="d-block country_name">Jaipur, (India)</span>                               
+                              <span class="post">(NIMS University Jaipur, India)</span>
+                              <span class="d-block country_name">Working Committee</span>                               
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -237,8 +259,8 @@
                                  <img src="assets/img/team/ilona.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Ilona Paweloszek (Member, Planning)</h3>
-                              <span class="post">Faculty Of Management <span class="d-block">Czestochowa University Of Technology</span> </span>
-                              <span class="d-block country_name">Poland</span>                               
+                              <span class="post">(Faculty Of Management ,Czestochowa University Of Technology , Poland)</span> 
+                              <span class="d-block country_name">Working Committee</span>                                 
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -247,8 +269,8 @@
                                  <img src="assets/img/team/gulsun-kurubcak.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Gulsun Kurubacak  (Member, Planning)</h3>
-                              <span class="post">Anadolu University</span>
-                              <span class="d-block country_name">Turkey</span>                               
+                              <span class="post">(Anadolu University , Turkey)</span>
+                              <span class="d-block country_name">Working Committee</span>                            
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -257,8 +279,8 @@
                                  <img src="assets/img/team/user.jpg">
                               </div>
                               <h3 class="title">Prof.(Dr.) Liliana Guran Manciu (Member, Planning)</h3>
-                              <span class="post"></span>
-                              <span class="d-block country_name">Romania </span>                               
+                              <span class="post">(Romania)</span>
+                              <span class="d-block country_name">Working Committee</span>                            
                            </div>
                         </div>
                         <div class="col-sm-12 col-md-3 col-lg-3">
@@ -267,8 +289,8 @@
                                  <img src="assets/img/team/mahesh-joshi.webp">
                               </div>
                               <h3 class="title">Prof.(Dr.) Mahesh Joshi</h3>
-                              <span class="post">Manipal University </span>
-                              <span class="d-block country_name">(India), Jaipur  </span>                               
+                              <span class="post">(Manipal University Jaipur, India) </span>
+                              <span class="d-block country_name">Working Committee</span>                             
                            </div>
                         </div>
                          <div class="col-sm-12 col-md-3 col-lg-3">
@@ -277,8 +299,9 @@
                                  <img src="assets/img/team/r-k-tailor.webp">
                               </div>
                               <h3 class="title">Prof. (Dr.) R. K. Tailor (Member Planning)</h3>
-                              <span class="post">Manipal University </span>
-                              <span class="d-block country_name"> Jaipur, (India)  </span>                               
+                              <span class="post">(Manipal University Jaipur, India)</span>
+                             
+                              <span class="d-block country_name">Working Committee</span>                                            
                            </div>
                         </div>
                      </div>
